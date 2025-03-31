@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=jxstcolin&style=flat-square&color=red" alt="Profile Views"/>
   <h1>👋 Hi there!</h1>
-  <p>My name is Colin! I'm from Germany and I like to code useful things and collaborate on projects.</p>
+  <p>My name is Colin! I'm from Germany and I love working on useful projects and collaborating with others.</p>
   
   <h2>🚀 About Me</h2>
   <p>
@@ -33,8 +33,9 @@
   </table>
 
   <h2>🔥 GitHub Stats</h2>
-  <div>
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=jxstcolin&show_icons=true&theme=dark" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxstcolin&theme=dark" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxstcolin&layout=compact&theme=dark" alt="Most Used Languages"/>
   </div>
 </div>
