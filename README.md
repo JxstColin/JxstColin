@@ -32,19 +32,9 @@
     </tr>
   </table>
 
-  <h2>📫 How to reach me</h2>
-  <p>
-    <a href="https://github.com/jxstcolin">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://discord.com/users/777422426333642753" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-  </p>
-
   <h2>🔥 GitHub Stats</h2>
-  <p>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=jxstcolin&show_icons=true&theme=dark" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxstcolin&theme=dark" alt="GitHub Streak"/>
-  </p>
+  </div>
 </div>
