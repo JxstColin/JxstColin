@@ -34,11 +34,11 @@
   <h2>🚀 Featured Projects</h2>
   <p>Some things I'm proud of 👇</p>
 
-  <a href="https://github.com/jxstcolin/your-cool-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jxstcolin&repo=your-cool-project&theme=tokyonight&hide_border=true&border_radius=15" />
+  <a href="https://github.com/jxstcolin/none">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jxstcolin&repo=none&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
-  <a href="https://github.com/jxstcolin/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jxstcolin&repo=another-project&theme=tokyonight&hide_border=true&border_radius=15" />
+  <a href="https://github.com/jxstcolin/none">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jxstcolin&repo=none&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
 </div>
 
